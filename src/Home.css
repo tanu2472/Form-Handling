@@ -1,0 +1,35 @@
+.input{
+  padding: 5px 20px;
+  border: 1px solid #000;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+.input:focus{
+  outline: none;
+  border-color: blue;
+  border: 2px solid blue;
+  box-shadow: 0 0 5px rgba(0,0,255);
+}
+.btn{
+  padding: 5px 30px ;
+  border: none;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.btn-disabled{
+  background-color: grey;
+  cursor: not-allowed;
+}
+.error-text{
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+.background {
+  background-color: #9fa525; /* Or any colour you like */
+}
