@@ -23,6 +23,6 @@ This project showcases form handling, conditional rendering, and clean UI design
 
 ## 📸 Screenshot
 
-![Internship Form UI](./Output_SS.png)  
+![Internship Form UI](public/Output_SS.png)  
 *Sample filled form showing eligibility message*
 
